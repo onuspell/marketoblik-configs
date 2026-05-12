@@ -3,13 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/marketoblik-configs)](https://github.com/YOUR_USERNAME/marketoblik-configs)
 
-**MarketOblik** — це веб-додаток для управління замовленнями в мережі магазинів (АТБ, Маркетопт, СОС7). Система дозволяє:
+**marketoblik** — це веб-додаток для управління замовленнями в мережі магазинів. Система дозволяє:
 
-- 📦 Оформлювати замовлення товарів
-- 📊 Відстежувати історію замовлень
-- 🔄 Синхронізувати дані між магазинами однієї локації
-- 👑 Адмініструвати акції та статуси товарів
-- 🔔 Отримувати сповіщення про нові накладні в Telegram
+- Оформлювати замовлення товарів
+- Відстежувати історію замовлень
+- Синхронізувати дані між магазинами однієї локації
+- Адмініструвати акції та статуси товарів
+- Отримувати сповіщення про нові накладні в Telegram
 
 ## 🚀 Швидкий старт
 
@@ -33,14 +33,14 @@
 ## 🛠 Технології
 
 - **Frontend**: Vanilla JS, HTML5, CSS3
-- **Backend**: Firebase (Realtime Database, Hosting)
+- **Backend**: Firebase (Realtime Database), Azure
 - **Cloud Functions**: Google Cloud Functions
 - **Хостинг**: Firebase Hosting + GitHub Raw
 
 ## 📞 Контакти
 
-- GitHub Issues: [Створити звіт](https://github.com/YOUR_USERNAME/marketoblik-configs/issues)
-- Email: marketoblik@example.com
+- GitHub Issues: [Створити звіт](https://github.com/onuspell/marketoblik-configs/issues)
+- Email: andriievoleh050@gmail.com
 
 ## 📄 Ліцензія
 
