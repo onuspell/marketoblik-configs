@@ -1,4 +1,4 @@
-# 🛒 MarketOblik - Система обліку замовлень для мережі магазинів
+# marketoblik - Система обліку замовлень для мережі магазинів
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/marketoblik-configs)](https://github.com/YOUR_USERNAME/marketoblik-configs)
@@ -11,7 +11,7 @@
 - Адмініструвати акції та статуси товарів
 - Отримувати сповіщення про нові накладні в Telegram
 
-## 🚀 Швидкий старт
+## Швидкий старт
 
 ### Для користувача
 1. Перейдіть за посиланням: **[MarketOblik Sklad](https://marketoblik.web.app/sklad/)**
