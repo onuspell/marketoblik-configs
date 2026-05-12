@@ -1,0 +1,24 @@
+---marketoblik_Кохнівський хліб.txt
+---name:Кохнівський хліб
+---ver:027
+---date:12.05.2026
+#
+---marketoblik_Власна Випічка.txt
+---name:Власна Випічка
+---ver:013
+---date:12.05.2026
+#
+---marketoblik_Київхліб.txt
+---name:Київхліб
+---ver:005
+---date:12.05.2026
+#
+---marketoblik_Суші.txt
+---name:Суші
+---ver:003
+---date:06.05.2026
+#
+---marketoblik_Кулінарія.txt
+---name:Кулінарія
+---ver:007
+---date:06.05.2026
