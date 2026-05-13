@@ -15,10 +15,10 @@
 #
 ---marketoblik_Суші.txt
 ---name:Суші
----ver:004
----date:12.05.2026
+---ver:005
+---date:13.05.2026
 #
 ---marketoblik_Кулінарія.txt
 ---name:Кулінарія
----ver:008
+---ver:009
 ---date:13.05.2026
